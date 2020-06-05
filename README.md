@@ -125,6 +125,22 @@ drawById.call(wx,"qrCode",{
 [地址](https://developers.weixin.qq.com/s/CFuM8SmJ7Ehx)
 
 
+## 其他
+
+1. 组件中使用，改变this指向即可
+```js
+import {drawById} from "../tools/qrcode"
+// 组件内需要从wx改位this
+drawById.call(this,"qrCode",{
+      text:"1233",
+      image:{
+        url:"/images/money.png", // 支持远程图片、本地图片、临时图片
+        width: 81, // 图片宽度
+        height:93  // 图片高度
+      }
+```
+
+
 
 ## 觉得好用的点个star吧(￣▽￣)"
 
