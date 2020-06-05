@@ -64,9 +64,11 @@ drawById.call(wx,"qrCode",{
 ```
 
 示意图
+
 ![图片](./images/qrcode1.png)
 
 代码片段
+
 [地址](https://developers.weixin.qq.com/s/2UudNSm47bhF)
 
 
@@ -86,8 +88,10 @@ drawById.call(wx,"qrCode",{
 })
 ```
 示意图
+
 ![图片](./images/qrcode2.png)
 
+代码片段
 
 [地址](https://developers.weixin.qq.com/s/y7uqzSmh77hi)
 
@@ -113,8 +117,10 @@ drawById.call(wx,"qrCode",{
 })
 ```
 示意图
+
 ![图片](./images/qrcode3.png)
 
+代码片段
 
 [地址](https://developers.weixin.qq.com/s/CFuM8SmJ7Ehx)
 
