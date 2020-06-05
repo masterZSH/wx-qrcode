@@ -120,6 +120,8 @@ drawById.call(wx,"qrCode",{
 
 
 
+## 觉得好用的点个star吧(￣▽￣)"
+
 
 
 
