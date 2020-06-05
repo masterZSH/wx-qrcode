@@ -59,7 +59,7 @@ js
 ```js
 import {drawById} from "../tools/qrcode"
 drawById.call(wx,"qrCode",{
-    text:"666666"  , // 二维码内容
+    text:"1233"  , // 二维码内容
 })
 ```
 
@@ -82,7 +82,7 @@ js
 ```js
 import {drawById} from "../tools/qrcode"
 drawById.call(wx,"qrCode",{
-    text:"666666"  , // 二维码内容
+    text:"1233"  , // 二维码内容
     width:50,     // 宽度 px内容自动转换像素比
     height:50,    // 高度 
 })
