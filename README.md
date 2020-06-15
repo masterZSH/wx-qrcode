@@ -3,7 +3,8 @@
 
 ## 安装
 
-npm安装
+npm
+
 ```js
 npm i z-wx-qrcode
 ```
