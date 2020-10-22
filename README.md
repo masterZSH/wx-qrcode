@@ -67,6 +67,8 @@ js
 import {drawById} from "../tools/qrcode"
 drawById.call(wx,"qrCode",{
     text:"1233"  , // 二维码内容
+    width: 128,    // 宽度
+    height: 128    // 高度
 })
 ```
 
